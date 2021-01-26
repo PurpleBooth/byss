@@ -1,0 +1,15 @@
+/*
+Base16 Byss Dark
+Author: Billie Thompson (http://github.com/PurpleBooth)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #010114;
+@define-color fg_color #BDECF5;
+@define-color base_color #022C64;
+@define-color text_color #BDECF5;
+@define-color text_color_disabled #0096C7;
+@define-color selected_bg_color #006AA3;
+@define-color selected_fg_color #BDECF5;
+@define-color tooltip_bg_color #010114;
+@define-color tooltip_fg_color #BDECF5;

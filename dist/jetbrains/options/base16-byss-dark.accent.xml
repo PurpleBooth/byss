@@ -1,0 +1,12 @@
+<!--    Base16 Byss Dark
+        Author: Billie Thompson (http://github.com/PurpleBooth)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="BA0AFF" />
+    <option name="accentColor" value="BA0AFF" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

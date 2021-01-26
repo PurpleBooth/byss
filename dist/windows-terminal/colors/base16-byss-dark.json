@@ -1,0 +1,22 @@
+{
+    "name": "base16-byss-dark",
+    "background": "#010114",
+    "selectionBackground": "#006AA3",
+    "black": "#010114",
+    "blue": "#BA0AFF",
+    "brightBlack": "#0096C7",
+    "brightBlue": "#48CAE4",
+    "brightCyan": "#f42415",
+    "brightGreen": "#022C64",
+    "brightPurple": "#DAF5FA",
+    "brightRed": "#1BE7FF",
+    "brightWhite": "#F7FDFE",
+    "brightYellow": "#006AA3",
+    "cyan": "#40F99B",
+    "foreground": "#BDECF5",
+    "green": "#28F6C9",
+    "purple": "#3B60E4",
+    "red": "#FF00A0",
+    "white": "#BDECF5",
+    "yellow": "#F9A03F"
+}

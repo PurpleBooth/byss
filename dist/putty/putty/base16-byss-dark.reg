@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Byss Dark
+; schema by Billie Thompson (http://github.com/PurpleBooth)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\byss-dark]
+
+; Default Foreground
+"Colour0"="189,236,245"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="189,236,245"
+
+; Default Background
+"Colour2"="1,1,20"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="1,1,20"
+
+; Cursor Text -- equals to default background
+"Colour4"="1,1,20"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="189,236,245"
+
+; ANSI Black
+"Colour6"="1,1,20"
+
+; ANSI Black Bold
+"Colour7"="0,150,199"
+
+; ANSI Red
+"Colour8"="255,0,160"
+
+; ANSI Red Bold
+"Colour9"="27,231,255"
+
+; ANSI Green
+"Colour10"="40,246,201"
+
+; ANSI Green Bold
+"Colour11"="2,44,100"
+
+; ANSI Yellow
+"Colour12"="249,160,63"
+
+; ANSI Yellow Bold
+"Colour13"="0,106,163"
+
+; ANSI Blue
+"Colour14"="186,10,255"
+
+; ANSI Blue Bold
+"Colour15"="72,202,228"
+
+; ANSI Magenta
+"Colour16"="59,96,228"
+
+; ANSI Magenta Bold
+"Colour17"="218,245,250"
+
+; ANSI Cyan
+"Colour18"="64,249,155"
+
+; ANSI Cyan Bold
+"Colour19"="244,36,21"
+
+; ANSI White
+"Colour20"="189,236,245"
+
+; ANSI White Bold
+"Colour21"="247,253,254"
+

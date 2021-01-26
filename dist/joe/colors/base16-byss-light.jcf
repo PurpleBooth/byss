@@ -1,0 +1,61 @@
+
+# base16 Byss Light by Billie Thompson (http://github.com/PurpleBooth)
+
+.colors *
+
+-text		$0077b6/$f7fdfe
+-status		$0096c7/$bdecf5
+-cursor		$f7fdfe/$0077b6
+-selection	/$bdecf5
+-curlin		/$daf5fa
+-linum		$48cae4/$daf5fa
+-curlinum	$0096c7/$daf5fa
+-menusel	$daf5fa/$0096c7
+
+-term 0 	$f7fdfe
+-term 1 	$BA0AFF
+-term 2 	$40F99B
+-term 3 	$28F6C9
+-term 4 	$1BE7FF
+-term 5 	$3B60E4
+-term 6 	$F9A03F
+-term 7 	$0096c7
+-term 8 	$48cae4
+-term 9 	$BA0AFF
+-term 10	$40F99B
+-term 11	$28F6C9
+-term 12	$FF00A0
+-term 13	$f42415
+-term 14	$F9A03F
+-term 15	$010228
+
+=Constant	$1BE7FF
+=String		$40F99B
+=Escape		$28F6C9
+
+=Comment	$48cae4
+=StorageClass	+Type
+=Keyword	$3B60E4
+=Conditional	$3B60E4
+=Operator	$0077b6
+=Loop		$F9A03F
+=Statement	$FF00A0
+=Type		$F9A03F
+
+=DefinedIdent	$FF00A0
+=Label		$F9A03F
+=DefinedType	$F9A03F
+=Structure	$3B60E4
+
+=Preproc	$F9A03F
+=Include	$BA0AFF
+=Define		$3B60E4
+=TODO		$F9A03F/$daf5fa
+=Precond	$3B60E4
+
+=diff.AddLine	$40F99B/$daf5fa
+=diff.ChgLine	$48cae4/$daf5fa
+=diff.DelLine	$FF00A0/$daf5fa
+=diff.File	$FF00A0
+=diff.FileNew	$40F99B
+=diff.Hunk	$BA0AFF

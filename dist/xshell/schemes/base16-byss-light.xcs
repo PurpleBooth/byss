@@ -1,0 +1,23 @@
+[Byss Light]
+text=0077b6
+text(bold)=0077b6
+background=f7fdfe
+black=f7fdfe
+black(bold)=48cae4
+red=FF00A0
+red(bold)=1BE7FF
+green=40F99B
+green(bold)=daf5fa
+yellow=F9A03F
+yellow(bold)=bdecf5
+blue=BA0AFF
+blue(bold)=0096c7
+magenta=3B60E4
+magenta(bold)=023e8a
+cyan=28F6C9
+cyan(bold)=f42415
+white=0077b6
+white(bold)=010228
+[Names]
+name0=Byss Light
+count=1

@@ -1,0 +1,37 @@
+/**
+ * Base16 Byss ROFI Color theme
+ *
+ * Authors
+ *  Scheme: Billie Thompson (http://github.com/PurpleBooth)
+ *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
+ */
+
+* {
+    red:                         rgba ( 255, 0, 160, 100 % );
+    blue:                        rgba ( 186, 10, 255, 100 % );
+    lightfg:                     rgba ( 165, 181, 164, 100 % );
+    lightbg:                     rgba ( 26, 29, 25, 100 % );
+    foreground:                  rgba ( 135, 147, 133, 100 % );
+    background:                  rgba ( 12, 16, 10, 100 % );
+    background-color:            rgba ( 12, 16, 10, 0 % );
+    separatorcolor:              @foreground;
+    border-color:                @foreground;
+    selected-normal-foreground:  @lightbg;
+    selected-normal-background:  @lightfg;
+    selected-active-foreground:  @background;
+    selected-active-background:  @blue;
+    selected-urgent-foreground:  @background;
+    selected-urgent-background:  @red;
+    normal-foreground:           @foreground;
+    normal-background:           @background;
+    active-foreground:           @blue;
+    active-background:           @background;
+    urgent-foreground:           @red;
+    urgent-background:           @background;
+    alternate-normal-foreground: @foreground;
+    alternate-normal-background: @lightbg;
+    alternate-active-foreground: @blue;
+    alternate-active-background: @lightbg;
+    alternate-urgent-foreground: @red;
+    alternate-urgent-background: @lightbg;
+}

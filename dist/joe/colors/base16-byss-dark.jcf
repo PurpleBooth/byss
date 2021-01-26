@@ -1,0 +1,61 @@
+
+# base16 Byss Dark by Billie Thompson (http://github.com/PurpleBooth)
+
+.colors *
+
+-text		$BDECF5/$010114
+-status		$48CAE4/$006AA3
+-cursor		$010114/$BDECF5
+-selection	/$006AA3
+-curlin		/$022C64
+-linum		$0096C7/$022C64
+-curlinum	$48CAE4/$022C64
+-menusel	$022C64/$48CAE4
+
+-term 0 	$010114
+-term 1 	$BA0AFF
+-term 2 	$28F6C9
+-term 3 	$40F99B
+-term 4 	$1BE7FF
+-term 5 	$3B60E4
+-term 6 	$F9A03F
+-term 7 	$48CAE4
+-term 8 	$0096C7
+-term 9 	$BA0AFF
+-term 10	$28F6C9
+-term 11	$40F99B
+-term 12	$FF00A0
+-term 13	$f42415
+-term 14	$F9A03F
+-term 15	$F7FDFE
+
+=Constant	$1BE7FF
+=String		$28F6C9
+=Escape		$40F99B
+
+=Comment	$0096C7
+=StorageClass	+Type
+=Keyword	$3B60E4
+=Conditional	$3B60E4
+=Operator	$BDECF5
+=Loop		$F9A03F
+=Statement	$FF00A0
+=Type		$F9A03F
+
+=DefinedIdent	$FF00A0
+=Label		$F9A03F
+=DefinedType	$F9A03F
+=Structure	$3B60E4
+
+=Preproc	$F9A03F
+=Include	$BA0AFF
+=Define		$3B60E4
+=TODO		$F9A03F/$022C64
+=Precond	$3B60E4
+
+=diff.AddLine	$28F6C9/$022C64
+=diff.ChgLine	$0096C7/$022C64
+=diff.DelLine	$FF00A0/$022C64
+=diff.File	$FF00A0
+=diff.FileNew	$28F6C9
+=diff.Hunk	$BA0AFF

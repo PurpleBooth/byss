@@ -1,0 +1,23 @@
+[Byss Dark]
+text=BDECF5
+text(bold)=BDECF5
+background=010114
+black=010114
+black(bold)=0096C7
+red=FF00A0
+red(bold)=1BE7FF
+green=28F6C9
+green(bold)=022C64
+yellow=F9A03F
+yellow(bold)=006AA3
+blue=BA0AFF
+blue(bold)=48CAE4
+magenta=3B60E4
+magenta(bold)=DAF5FA
+cyan=40F99B
+cyan(bold)=f42415
+white=BDECF5
+white(bold)=F7FDFE
+[Names]
+name0=Byss Dark
+count=1

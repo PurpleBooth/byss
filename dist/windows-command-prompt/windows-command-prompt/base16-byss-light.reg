@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Byss Light (https://github.com/chriskempson/base16)
+; Scheme: Billie Thompson (http://github.com/PurpleBooth)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00fefdf7 ; base00
+"ColorTable01"=dword:00FF0ABA ; base0D
+"ColorTable02"=dword:009BF940 ; base0B
+"ColorTable03"=dword:00C9F628 ; base0C
+"ColorTable04"=dword:00A000FF ; base08
+"ColorTable05"=dword:00E4603B ; base0E
+"ColorTable06"=dword:00FFE71B ; base09
+"ColorTable07"=dword:00b67700 ; base05
+"ColorTable08"=dword:00e4ca48 ; base03
+"ColorTable09"=dword:00faf5da ; base01
+"ColorTable10"=dword:00f5ecbd ; base02
+"ColorTable11"=dword:00e4ca48 ; base03
+"ColorTable12"=dword:00c79600 ; base04
+"ColorTable13"=dword:00b67700 ; base05
+"ColorTable14"=dword:008a3e02 ; base06
+"ColorTable15"=dword:00280201 ; base07

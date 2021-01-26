@@ -1,0 +1,26 @@
+-- Name: Base16 Byss Light
+-- Author: Billie Thompson (http://github.com/PurpleBooth)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#0077b6" }
+Canvas = { Colour="#f7fdfe" }
+Number = { Colour="#1BE7FF" }
+Escape = { Colour="#023e8a" , Italic=true}
+String = { Colour="#40F99B" }
+BlockComment = { Colour="#48cae4" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#0077b6" }
+LineNum      = { Color="#48cae4" }
+PreProcessor      = { Colour="#f42415" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#FF00A0", Bold=true},
+  { Colour="#F9A03F"},
+  { Colour="#BA0AFF"},
+  { Colour="#F9A03F"},
+  { Colour="#F9A03F" }
+}

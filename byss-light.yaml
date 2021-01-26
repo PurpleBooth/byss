@@ -1,0 +1,19 @@
+scheme: "Byss Light"
+author: "Billie Thompson (http://github.com/PurpleBooth)"
+base00: "f7fdfe" # default background
+base01: "daf5fa" # lighter background (status bar)
+base02: "bdecf5" # selection background
+base03: "48cae4" # comments, invisibles
+base04: "0096c7" # dark foreground (status bar)
+base05: "0077b6" # default foreground
+base06: "023e8a" # light foreground
+base07: "010228" # light background
+
+base08: "FF00A0" # variables
+base09: "1BE7FF" # constants
+base0A: "F9A03F" # search text background
+base0B: "40F99B" # strings
+base0C: "28F6C9" # regex, escaped chars
+base0D: "BA0AFF" # functions
+base0E: "3B60E4" # keywords
+base0F: "f42415" # deprecations

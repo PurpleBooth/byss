@@ -1,0 +1,45 @@
+! Base16 Byss
+! Scheme: Billie Thompson (http://github.com/PurpleBooth)
+
+#define base00 #0c100a
+#define base01 #1a1d19
+#define base02 #262a24
+#define base03 #40463e
+#define base04 #697368
+#define base05 #879385
+#define base06 #a5b5a4
+#define base07 #d5e9d5
+#define base08 #FF00A0
+#define base09 #1BE7FF
+#define base0A #F9A03F
+#define base0B #F0F757
+#define base0C #40F99B
+#define base0D #BA0AFF
+#define base0E #3B60E4
+#define base0F #f42415
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07

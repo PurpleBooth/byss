@@ -1,0 +1,42 @@
+# Base16 Byss Dark 256 - alacritty color config
+# Billie Thompson (http://github.com/PurpleBooth)
+colors:
+  # Default colors
+  primary:
+    background: '0x010114'
+    foreground: '0xBDECF5'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x010114'
+    cursor: '0xBDECF5'
+
+  # Normal colors
+  normal:
+    black:   '0x010114'
+    red:     '0xFF00A0'
+    green:   '0x28F6C9'
+    yellow:  '0xF9A03F'
+    blue:    '0xBA0AFF'
+    magenta: '0x3B60E4'
+    cyan:    '0x40F99B'
+    white:   '0xBDECF5'
+
+  # Bright colors
+  bright:
+    black:   '0x0096C7'
+    red:     '0xFF00A0'
+    green:   '0x28F6C9'
+    yellow:  '0xF9A03F'
+    blue:    '0xBA0AFF'
+    magenta: '0x3B60E4'
+    cyan:    '0x40F99B'
+    white:   '0xF7FDFE'
+
+  indexed_colors:
+    - { index: 16, color: '0x1BE7FF' }
+    - { index: 17, color: '0xf42415' }
+    - { index: 18, color: '0x022C64' }
+    - { index: 19, color: '0x006AA3' }
+    - { index: 20, color: '0x48CAE4' }
+    - { index: 21, color: '0xDAF5FA' }

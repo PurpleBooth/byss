@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Byss Light by Billie Thompson (http://github.com/PurpleBooth)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f7fdfe"
+idle_fg = "#0077b6"
+info_bg = "#28F6C9"
+info_fg = "#f7fdfe"
+good_bg = "#40F99B"
+good_fg = "#f7fdfe"
+warning_bg = "#F9A03F"
+warning_fg = "#f7fdfe"
+critical_bg = "#FF00A0"
+critical_fg = "#f7fdfe"
+# The rest of the theme settings are left at default.

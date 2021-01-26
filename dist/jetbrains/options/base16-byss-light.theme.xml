@@ -1,0 +1,21 @@
+<!--    Base16 Byss Light
+        Author: Billie Thompson (http://github.com/PurpleBooth)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="f7fdfe" />
+    <option name="treeSelectionColor" value="BA0AFF" />
+    <option name="highlightColor" value="bdecf5" />
+    <option name="secondBorderColor" value="f7fdfe" />
+    <option name="tableSelectedColor" value="BA0AFF" />
+    <option name="contrastColor" value="daf5fa" />
+    <option name="disabledColor" value="0096c7" />
+    <option name="secondaryBackgroundColor" value="daf5fa" />
+    <option name="buttonColor" value="f7fdfe" />
+    <option name="selectionForegroundColor" value="023e8a" />
+    <option name="selectionBackgroundColor" value="BA0AFF" />
+    <option name="textColor" value="023e8a" />
+    <option name="foregroundColor" value="0077b6" />
+    <option name="backgroundColor" value="f7fdfe" />
+  </component>
+</application> 

@@ -1,0 +1,15 @@
+## Base16 Byss Light
+# Author: Billie Thompson (http://github.com/PurpleBooth)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#f7fdfe
+color0:#f7fdfe
+text_color:#0077b6
+selected_bg_color:#bdecf5
+selected_fg_color:#0077b6
+tooltip_bg_color:#f7fdfe
+tooltip_fg_color:#0077b6
+titlebar_bg_color:#f7fdfe
+titlebar_fg_color:#0077b6
+menu_bg_color:#f7fdfe
+menu_fg_color:#0077b6
+link_color:#bdecf5"

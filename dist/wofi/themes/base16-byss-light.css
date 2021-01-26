@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Byss Light scheme by Billie Thompson (http://github.com/PurpleBooth) */
+
+window {
+	background-color: #f7fdfe;
+	color: #0077b6;
+}
+
+#entry:nth-child(odd) {
+	background-color: #f7fdfe;
+}
+
+#entry:nth-child(even) {
+	background-color: #daf5fa;
+}
+
+#entry:selected {
+	background-color: #bdecf5;
+}
+
+#input {
+	background-color: #daf5fa;
+	color: #0096c7;
+	border-color: #bdecf5; 
+}
+
+#input:focus {
+	border-color: #F9A03F; 
+}

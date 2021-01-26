@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Byss
+ColorForeground=#879385
+ColorBackground=#0c100a
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#0c100a;#FF00A0;#F0F757;#F9A03F;#BA0AFF;#3B60E4;#40F99B;#879385;#40463e;#FF00A0;#F0F757;#F9A03F;#BA0AFF;#3B60E4;#40F99B;#d5e9d5

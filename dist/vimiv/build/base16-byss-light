@@ -1,0 +1,31 @@
+; base16-byss-light
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: Billie Thompson (http://github.com/PurpleBooth)
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #f7fdfe
+base01 = #daf5fa
+base02 = #bdecf5
+base03 = #48cae4
+base04 = #0096c7
+base05 = #0077b6
+base06 = #023e8a
+base07 = #010228
+base08 = #FF00A0
+base09 = #1BE7FF
+base0a = #F9A03F
+base0b = #40F99B
+base0c = #28F6C9
+base0d = #BA0AFF
+base0e = #3B60E4
+base0f = #f42415
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

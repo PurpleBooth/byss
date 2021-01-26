@@ -1,0 +1,5 @@
+# Base16 Byss Dark for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By Billie Thompson (http://github.com/PurpleBooth)
+
+gtk-color-scheme = "bg_color:#010114\nfg_color:#BDECF5\nbase_color:#010114\ntext_color:#BDECF5\nselected_bg_color:#006AA3\nselected_fg_color:#BDECF5\ntooltip_bg_color:#010114\ntooltip_fg_color:#48CAE4\ntitlebar_bg_color:#010114\ntitlebar_fg_color:#BA0AFF\nmenubar_bg_color:#010114\nmenubar_fg_color:#BA0AFF\ntoolbar_bg_color:#010114\ntoolbar_fg_color:#F9A03F\nmenu_bg_color:#010114\nmenu_fg_color:#BDECF5\npanel_bg_color:#010114\npanel_fg_color:#28F6C9\nlink_color:#1BE7FF"
+
