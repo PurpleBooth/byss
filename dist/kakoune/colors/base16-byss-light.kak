@@ -18,7 +18,7 @@ evaluate-commands %sh{
     base0C='rgb:28F6C9'
     base0D='rgb:BA0AFF'
     base0E='rgb:3B60E4'
-    base0F='rgb:f42415'
+    base0F='rgb:300704'
 
     ## code
     echo "

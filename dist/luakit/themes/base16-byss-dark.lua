@@ -23,7 +23,7 @@ local base0B = "#28F6C9" -- green
 local base0C = "#40F99B" -- aqua/cyan
 local base0D = "#BA0AFF" -- blue
 local base0E = "#3B60E4" -- purple
-local base0F = "#f42415" -- brown
+local base0F = "#fcd3d0" -- brown
 
 local theme = {}
 

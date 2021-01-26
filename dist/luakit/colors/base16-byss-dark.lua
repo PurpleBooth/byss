@@ -20,6 +20,6 @@ M.base0B = "#28F6C9" -- green
 M.base0C = "#40F99B" -- aqua/cyan
 M.base0D = "#BA0AFF" -- blue
 M.base0E = "#3B60E4" -- purple
-M.base0F = "#f42415" -- brown
+M.base0F = "#fcd3d0" -- brown
 
 return M

@@ -32,7 +32,7 @@ base0B = '#28F6C9'
 base0C = '#40F99B'
 base0D = '#BA0AFF'
 base0E = '#3B60E4'
-base0F = '#f42415'
+base0F = '#fcd3d0'
 
 # See https://github.com/jonathanslenders/python-prompt-toolkit/issues/355
 

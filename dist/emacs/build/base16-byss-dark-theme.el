@@ -27,7 +27,7 @@
     :base0C "#40F99B"
     :base0D "#BA0AFF"
     :base0E "#3B60E4"
-    :base0F "#f42415")
+    :base0F "#fcd3d0")
   "All colors for Base16 Byss Dark are defined here.")
 
 ;; Define the theme

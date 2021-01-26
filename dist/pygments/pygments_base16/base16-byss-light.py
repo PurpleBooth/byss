@@ -20,7 +20,7 @@ class Base16Style(Style):
     base0c = '#28F6C9'
     base0d = '#BA0AFF'
     base0e = '#3B60E4'
-    base0f = '#f42415'
+    base0f = '#300704'
 
     default_style = ''
 

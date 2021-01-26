@@ -23,6 +23,6 @@ static const char base0B[] = "#40F99B";
 static const char base0C[] = "#28F6C9";
 static const char base0D[] = "#BA0AFF";
 static const char base0E[] = "#3B60E4";
-static const char base0F[] = "#f42415";
+static const char base0F[] = "#300704";
 
 #endif

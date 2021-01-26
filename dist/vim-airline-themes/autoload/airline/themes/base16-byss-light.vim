@@ -22,7 +22,7 @@ let s:gui0B = '#40F99B'
 let s:gui0C = '#28F6C9'
 let s:gui0D = '#BA0AFF'
 let s:gui0E = '#3B60E4'
-let s:gui0F = '#f42415'
+let s:gui0F = '#300704'
 
 " Terminal color definitions
 let s:cterm00        = "00"
