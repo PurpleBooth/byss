@@ -25,7 +25,7 @@
     <value name="ColorTable10" type="dword" data="00C9F628"/>
     <value name="ColorTable11" type="dword" data="009BF940"/>
     <value name="ColorTable12" type="dword" data="00A000FF"/>
-    <value name="ColorTable13" type="dword" data="00d0d3fc"/>
+    <value name="ColorTable13" type="dword" data="00E3E0DD"/>
     <value name="ColorTable14" type="dword" data="003FA0F9"/>
     <value name="ColorTable15" type="dword" data="00FEFDF7"/>
     <value name="ColorTable16" type="dword" data="00140101"/>
@@ -41,7 +41,7 @@
     <value name="ColorTable26" type="dword" data="00C9F628"/>
     <value name="ColorTable27" type="dword" data="009BF940"/>
     <value name="ColorTable28" type="dword" data="00A000FF"/>
-    <value name="ColorTable29" type="dword" data="00d0d3fc"/>
+    <value name="ColorTable29" type="dword" data="00E3E0DD"/>
     <value name="ColorTable30" type="dword" data="003FA0F9"/>
     <value name="ColorTable31" type="dword" data="00FEFDF7"/>
 </key>

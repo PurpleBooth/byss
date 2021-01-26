@@ -23,7 +23,7 @@ colors.base0B = 0x9BF940
 colors.base0C = 0xC9F628
 colors.base0D = 0xFF0ABA
 colors.base0E = 0xE4603B
-colors.base0F = 0x040730
+colors.base0F = 0x2d2925
 
 -- Default font.
 if not font then

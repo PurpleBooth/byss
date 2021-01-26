@@ -17,7 +17,7 @@ var color_scheme = {
         'base0C': '#40F99B',
         'base0D': '#BA0AFF',
         'base0E': '#3B60E4',
-        'base0F': '#fcd3d0',
+        'base0F': '#DDE0E3',
 };
 
 term_.prefs_.set('background-color', color_scheme.base00);

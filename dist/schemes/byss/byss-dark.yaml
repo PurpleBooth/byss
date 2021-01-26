@@ -16,4 +16,4 @@ base0B: "28F6C9" # strings
 base0C: "40F99B" # regex, escaped chars
 base0D: "BA0AFF" # functions
 base0E: "3B60E4" # keywords
-base0F: "fcd3d0" # deprecations
+base0F: "DDE0E3" # deprecations

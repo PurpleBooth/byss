@@ -27,7 +27,7 @@
     :base0C "#28F6C9"
     :base0D "#BA0AFF"
     :base0E "#3B60E4"
-    :base0F "#300704")
+    :base0F "#25292d")
   "All colors for Base16 Byss Light are defined here.")
 
 ;; Define the theme

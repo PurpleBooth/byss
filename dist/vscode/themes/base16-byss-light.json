@@ -324,7 +324,7 @@
         // "merge.commonHeaderBackground": "#f00",
         "editorOverviewRuler.currentContentForeground": "#BA0AFF", //D
         "editorOverviewRuler.incomingContentForeground": "#40F99B", //B
-        "editorOverviewRuler.commonContentForeground": "#300704", //F
+        "editorOverviewRuler.commonContentForeground": "#25292d", //F
 
         // Panel colors
         "panel.background": "#f7fdfe", //0
@@ -482,7 +482,7 @@
         "gitDecoration.untrackedResourceForeground": "#1BE7FF", //9
         "gitDecoration.ignoredResourceForeground": "#48cae4", //3
         "gitDecoration.conflictingResourceForeground": "#F9A03F", //A
-        "gitDecoration.submoduleResourceForeground": "#300704", //F
+        "gitDecoration.submoduleResourceForeground": "#25292d", //F
 
         // Settings editor colors
         "settings.headerForeground": "#0077b6", //5
@@ -539,7 +539,7 @@
         "symbolIcon.methodForeground": "#BA0AFF", //D
         "symbolIcon.moduleForeground": "#0077b6", //5
         "symbolIcon.namespaceForeground": "#0077b6", //5
-        "symbolIcon.nullForeground": "#300704", //F
+        "symbolIcon.nullForeground": "#25292d", //F
         "symbolIcon.numberForeground": "#1BE7FF", //9
         "symbolIcon.objectForeground": "#f0f",
         "symbolIcon.operatorForeground": "#f0f",
@@ -559,7 +559,7 @@
         "debugIcon.breakpointDisabledForeground": "#0096c7", //4
         "debugIcon.breakpointUnverifiedForeground": "#bdecf5", //2
         "debugIcon.breakpointCurrentStackframeForeground": "#F9A03F", //A
-        "debugIcon.breakpointStackframeForeground": "#300704", //F
+        "debugIcon.breakpointStackframeForeground": "#25292d", //F
         "debugIcon.startForeground": "#40F99B", //B
         "debugIcon.pauseForeground": "#BA0AFF", //D
         "debugIcon.stopForeground": "#FF00A0", //8
@@ -569,7 +569,7 @@
         "debugIcon.stepIntoForeground": "#28F6C9", //C
         "debugIcon.stepOutForeground": "#3B60E4", //E
         "debugIcon.continueForeground": "#40F99B", //B
-        "debugIcon.stepBackForeground": "#300704", //F
+        "debugIcon.stepBackForeground": "#25292d", //F
         "debugConsole.infoForeground": "#0077b6", //5
         "debugConsole.warningForeground": "#F9A03F", //A
         "debugConsole.errorForeground": "#FF00A0", //8
@@ -666,7 +666,7 @@
                 "invalid.deprecated"
             ],
             "settings": {
-                "foreground": "#300704" //F
+                "foreground": "#25292d" //F
             }
         },
         {
@@ -757,7 +757,7 @@
                 "variable.interpolation"
             ],
             "settings": {
-                "foreground": "#300704" //F
+                "foreground": "#25292d" //F
             }
         },
         {

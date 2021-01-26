@@ -30,7 +30,7 @@ colors:
     yellow:  '0x006AA3'
     blue:    '0x48CAE4'
     magenta: '0xDAF5FA'
-    cyan:    '0xfcd3d0'
+    cyan:    '0xDDE0E3'
     white:   '0xF7FDFE'
 
 draw_bold_text_with_bright_colors: false
